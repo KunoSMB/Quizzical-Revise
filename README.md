@@ -4,7 +4,7 @@
 
 ## 🖥️ Live Demo
 
-👉 [Play Quizzical](https://quizzical-hut.netlify.app/)
+👉 [Play Quizzical](https://quizzical-wheat.vercel.app/)
 
 ## 🚀 Features
 
